@@ -1,4 +1,7 @@
 # lab steps
+- circle1
+	- cir2
+# class_note
 ---
 # public resources
 - LearnVHDL
