@@ -1,9 +1,12 @@
-# lab steps
-- circle1
-	- cir2
+
 # class_note
+- lab1_datatypes.vhd
+- lab2_comb_logic.vhd
+- lab3_or_gate.vhd
+
+
 ---
-# public resources
+# public resources, ref
 - LearnVHDL
 	- https://sites.google.com/site/learnvhdl/home
 - vhdlwhiz
